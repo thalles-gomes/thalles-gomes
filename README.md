@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do  😁
+## Bem-vindo(a)!😁
 
  <div>
   <a href="https://github.com/thalles-gomes">
